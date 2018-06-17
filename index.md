@@ -1,9 +1,4 @@
----
-layout: cv
-title: Nimo's CV
-pdf: true
----
-# Wode __Ni__
+# 廖进 __Ni__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
